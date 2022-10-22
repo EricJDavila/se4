@@ -1,5 +1,12 @@
 # Se4 (Monitoreo remoto de los reconectadores de 4 subestaciones eléctricas)
-Desarrollo del proyecto para hacer monitoreo remoto de los reconectadores de 4 subestaciones eléctricas. 
+Este es el repositorio para desarrollo de la solución que permite el monitoreo remoto de los reconectadores de 4 subestaciones eléctricas.
+
+La solución estará conformada por varios proyectos:
+
+A. Adquisición.
+B. Transmisión.
+C. Análisis.
+D. Publicación.
 
 Las variables de interés ya están recolectadas y se asume que se pueden leer a través de un puerto RS-232.
 
